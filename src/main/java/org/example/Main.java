@@ -1,7 +1,6 @@
-package org.example;
-
 public class Main {
     public static void main(String[] args) {
-        System.out.println("CI/CD Pipeline Optimization Test");
+        int my_variable_wrong_style = 10;
+        System.out.println("Test CI");
     }
 }
